@@ -1,0 +1,20 @@
+[
+  {
+  	"id": 1,
+    "sizeEnum": "SMALL",
+    "name": "Smal Glass",
+    "amount": 300
+  },
+  {
+  	"id": 2,
+    "sizeEnum": "MEDIUM",
+    "name": "Medium Glass",
+    "amount": 400
+  },
+  {
+  	"id": 3,
+    "sizeEnum": "LARGE",
+    "name": "Large Glass",
+    "amount": 500
+  }
+]

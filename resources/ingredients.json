@@ -1,0 +1,23 @@
+[
+  {
+  	"id": 1,
+    "flavorEnum": "STRAWBERRY",
+    "name": "Strawberry",
+    "cost": 0.50,
+    "stock": 15000
+  },
+  {
+  	"id": 2,
+    "flavorEnum": "BANANA",
+    "name": "Banana",
+    "cost": 0.60,
+    "stock": 18000
+  },
+  {
+  	"id": 3,
+    "flavorEnum": "MANGO",
+    "name": "Mango",
+    "cost": 0.70,
+    "stock": 20000
+  }
+]
